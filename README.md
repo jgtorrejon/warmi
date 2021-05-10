@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Warmi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Warmi helps you with you wedding gift list. 😊
 ## Available Scripts
 
 In the project directory, you can run:
